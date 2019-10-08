@@ -1,0 +1,53 @@
+nav {
+	background-color: #007FFF;
+}
+
+nav a {
+	color: #fff;
+	font-family: 'Short Stack', cursive;
+}
+
+footer {
+	font-family: 'Short Stack', cursive;
+	width: 100%;
+	padding: 10px;
+	background: #007FFF;
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+
+div{
+	margin-top: 3px;
+}
+
+img {
+	position: relative;
+    right: 30px;
+	bottom: 20px;
+	max-width: 100%;
+    height: auto;
+}
+
+.jumbotron {
+	height: auto;
+	width: 100%;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Short Stack', cursive;
+}
+
+form {
+	font-family: 'Short Stack', cursive;
+}
+
+#formContent {
+	border: 1px solid #ADD8E6;
+	border-radius: 0 50px 0 20px;
+	margin-bottom: 100px;
+}

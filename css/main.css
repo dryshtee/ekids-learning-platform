@@ -1,0 +1,99 @@
+body {
+    font-family: 'Short Stack', cursive;
+	max-height: auto;
+	overflow-y: scroll;
+}
+
+#divAnswerArea {
+	width: 400px;
+	height: 100px;
+	padding: 10px;
+	margin-bottom: 30px;
+	border: 1px solid #aaaaaa;
+}
+
+#divAnswerOption {
+	margin-bottom: 20px;
+}
+
+nav {
+	font-family: 'Short Stack', cursive;
+	background-color: #007FFF;
+	color: #fff;
+}
+
+nav a {
+	color: #fff;
+}
+
+.nav-username {
+	float: right;
+	padding: 3px;
+	margin-top: 10px;
+	color: #fff;
+}
+
+.navbar-brand {
+	color: #fff;
+}
+
+#divWelcome {
+	margin-top: 60px;
+}
+
+#confirmationText {
+	color: green;
+}
+
+.content-wrapper {
+	font-family: 'Short Stack', cursive;
+	height: auto;
+}
+
+.text-block {
+    position: absolute;
+    left: -20px;
+    top: 0;	
+}
+
+.col-md-3 p {
+	border: 1px solid grey;
+	border-radius: 3px;
+	margin-left: -15px;
+	padding: 3px;
+}
+
+.student {
+	position: absolute;
+	bottom: 75px;
+    right: 325px;
+	width: 250px;
+    height: 225px;
+}
+
+.welcome {
+	margin-left: 0;
+	width: 500px;
+    height: auto;
+}
+
+.fun {
+	margin-left: 0;
+	width: 100px;
+    height: 100px;
+	opacity: 0.6;
+}
+
+footer {
+	font-family: 'Short Stack', cursive;
+	width: 100%;
+	height: auto;
+	padding: 5px;
+	background: #007FFF;
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
