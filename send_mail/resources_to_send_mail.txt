@@ -1,0 +1,6 @@
+To allow xampp to send mail, use this article as guideline:
+https://stackoverflow.com/questions/15965376/how-to-configure-xampp-to-send-mail-from-localhost
+
+To allow gmail to send email from less secure app,
+give it access using this link:
+https://myaccount.google.com/lesssecureapps
