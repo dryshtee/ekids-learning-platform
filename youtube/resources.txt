@@ -1,7 +1,0 @@
-https://developers.google.com/youtube/iframe_api_reference#loadVideoById
-
-https://github.com/youtube/youtube-ios-player-helper/issues/168
-//for this one, search for:
- JackWangz commented on Apr 21, 2016 •
-
-@chenso Got it! So if the full url is https://www.youtube.com/watch?v=iEPTlhBmwRg, then the argument would be http://www.youtube.com/v/iEPTlhBmwRg?version=3.
